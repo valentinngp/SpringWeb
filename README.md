@@ -10,8 +10,8 @@ API REST multicapa desarrollada para gestionar de forma eficiente el registro de
 Este proyecto fue construido desde cero aplicando buenas prácticas de desarrollo backend, arquitectura multicapa (Controladores, Servicios, Repositorios) y principios SOLID.
 
 ##  Tecnologías y Herramientas
-* **Lenguaje:** Java 21
-* **Framework principal:** Spring Boot 3
+* **Lenguaje:** Java 
+* **Framework principal:** Spring Boot 
 * **Persistencia y Base de Datos:** Spring Data JPA (Hibernate) y MySQL
 * **Documentación:** Swagger / OpenAPI
 * **Utilidades:** Lombok, ModelMapper, Spring Validation API
