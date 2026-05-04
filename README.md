@@ -1,4 +1,4 @@
-# 🛒 API RESTful - Gestión de Ventas
+#  API RESTful - Gestión de Ventas
 
 ![Java](https://img.shields.io/badge/Java-21-orange.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-brightgreen.svg)
